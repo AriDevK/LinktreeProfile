@@ -1,7 +1,7 @@
 # ✨ LinkTree Clone - Profile Page ✨
 A clone web application of the Linktree profile page, developed in order to stop using Linktree page and add it to my own domain web page https://aridev.me/links
 
-<img align="center" src= "" width="1000px"/> 
+<img align="center" src= "https://github.com/AriDevK/LinktreeProfile/blob/main/screenshots/intro.gif" width="1000px"/> 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -73,4 +73,5 @@ These are things that I will implement later
 <br>
 
 ## 📷 Screenshots
-<img width= "480" src= ""/>
+<img width= "480" src= "https://github.com/AriDevK/LinktreeProfile/blob/main/screenshots/main.png"/>
+<img width= "480" src= "https://github.com/AriDevK/LinktreeProfile/blob/main/screenshots/about.png"/>
