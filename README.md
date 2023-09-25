@@ -74,6 +74,3 @@ These are things that I will implement later
 
 ## 📷 Screenshots
 <img width= "480" src= ""/>
-
-
-

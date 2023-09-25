@@ -1,0 +1,22 @@
+<div class="container">
+  <app-profile-picture size="150" [src]="profileData.image" />
+  <app-profile-caption [name]="profileData.name" [caption]="profileData.caption" />
+
+  <br>
+
+  <div class="link-container">
+    <app-profile-link *ngFor="let link of linksData | linkCallback:findEnabledLinks"
+                      [social]="link.social" [link]="link.url">
+    </app-profile-link>
+
+    <h2>Soon</h2>
+    <app-profile-link *ngFor="let link of linksData | linkCallback:findDisabledLinks"
+                      [social]="link.social" [link]="link.url">
+    </app-profile-link>
+  </div>
+
+  <footer>
+    Made with Angular & <span class="heart">❤</span> by
+    <a href="https://aridev.me">{{ profileData.name }}</a>
+  </footer>
+</div>

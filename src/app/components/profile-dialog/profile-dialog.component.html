@@ -1,0 +1,16 @@
+<h1 mat-dialog-title>About me✨</h1>
+<div mat-dialog-content>
+  <mat-grid-list cols="3" rowHeight="1:1.2">
+    <mat-grid-tile colspan="1.2">
+      <img [src]="data.src"/>
+    </mat-grid-tile>
+    <mat-grid-tile colspan="1.8">
+      <div id="content">
+        <h1>{{ data.title }}</h1>
+        <p *ngFor="let _content of content">
+          {{ _content }}
+        </p>
+      </div>
+    </mat-grid-tile>
+  </mat-grid-list>
+</div>
