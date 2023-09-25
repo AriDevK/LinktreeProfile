@@ -69,9 +69,10 @@ These are things that I will implement later
 - Connect to my API in order to fetch the links
 - Made available on spanish language
 - Check mobile responsive.
+- Button to change language.
 
 <br>
 
 ## 📷 Screenshots
-<img width= "480" src= "https://github.com/AriDevK/LinktreeProfile/blob/main/screenshots/main.png"/>
-<img width= "480" src= "https://github.com/AriDevK/LinktreeProfile/blob/main/screenshots/about.png"/>
+<img width= "485" src= "https://github.com/AriDevK/LinktreeProfile/blob/main/screenshots/main.png"/>
+<img width= "485" src= "https://github.com/AriDevK/LinktreeProfile/blob/main/screenshots/about.png"/>
